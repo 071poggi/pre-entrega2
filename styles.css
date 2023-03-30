@@ -1,0 +1,58 @@
+.navbar-brand{
+    text-shadow: 1px 1px 2px black;
+    font-size: 2em;
+}
+
+.barcolor{
+    background-color: rgb(50, 116, 155);
+}
+
+.nav-item{
+    font-size: 120%;
+}
+
+.jumbotron{
+    background-image: url(img/somos\ una\ empresa\ dedicada\ a\ l\ \(2\).png);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    margin-bottom: 0;
+    color: white;
+    text-shadow: 0 0 5px black;
+    font-size:xx-large;
+}
+h2{
+    background-color: rgb(50, 116, 155);
+    text-align: center;
+    padding: 2%;
+    color: white;
+    margin-bottom: 0;
+}
+
+.nleft{
+    background-image: url(img/tecnopoggi.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+
+}
+
+h3{
+    color: rgb(50, 116, 155);
+    text-align: center;
+}
+
+.container-productos{
+    margin-bottom: 5%;
+}
+
+.clientesje{
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgb(61, 157, 247);
+    font-size:xx-large;
+}
+
+.container-fluid-ini{
+    padding: 5%;
+}
